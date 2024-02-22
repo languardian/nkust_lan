@@ -6,7 +6,7 @@ import { Col, Row } from 'antd';
 function Home() {
   return (
     <Row>
-        <Col span={3.7} push={0} className='form-container'>
+        <Col span={3.8} push={0} className='form-container'>
         <Nav></Nav>
         </Col>
         
